@@ -11,7 +11,7 @@ const chalk = require("chalk")
 global.thum = fs.readFileSync("./media/image/thumb.jpg")
 global.log0 = fs.readFileSync("./media/image/mans.jpg")
 global.err4r = fs.readFileSync("./media/image/error.jpg")
-global.owner = ['60102810046','0','0']
+global.owner = ['6288804947282']
 global.rkyt = []
 global.ntilink = ['120363043965529911@g.us']
 global.ntihide = ['120363043965529911@g.us']
@@ -21,10 +21,10 @@ global.autkick = ['120363043965529911@g.us']
 global.gcrevoke = ['16472412324-1386525986@g.us']
 global.wjoind = []
 global.wleaved = []
-global.packname = "lynxman"
+global.packname = "Slamet kopling"
 global.packname2 = "Bot whtsapp "
-global.author = "Aiman"
-global.sessionName = "mans"
+global.author = "Humanz"
+global.sessionName = "session"
 global.linkgrupss = "-"
 global.antitags = false
 global.autred = true
@@ -34,7 +34,7 @@ global.mess = {
     success: 'Success',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
+    owner: 'Fitur Khusus HumanzDev',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
